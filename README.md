@@ -15,3 +15,15 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 </br>
+
+### Contact with me :telephone_receiver:
+<div class="row">
+<a href="https://github.com/Pedrobam">
+<img src="https://raw.githubusercontent.com/joaooab/joaooab.github.io/master/images/github.png" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/pedro-h-freitas/">
+<img src="https://raw.githubusercontent.com/joaooab/joaooab.github.io/master/images/linkedin.png" width="50" height="50">
+</a>
+<a href="https://www.instagram.com/pedrobam1/">
+<img src="https://raw.githubusercontent.com/joaooab/joaooab.github.io/master/images/instagram.png" width="50" height="50">
+</a>
