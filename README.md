@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as an Android Developer
-- :gem: Enthusiastic about technology and innovation.
+- :gem: Enthusiastic about technology, innovation and security.
 
 <div align="center">
   <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=Pedrobam&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
